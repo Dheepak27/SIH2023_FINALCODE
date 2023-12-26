@@ -5,10 +5,12 @@ The main.py file encompasses the solution to the Smart India Hackathon problem s
 
 Dehazing Algorithm: Dark Channel Prior (DCP)
 The project employs the powerful Dark Channel Prior for image dehazing, significantly enhancing visibility in hazy conditions.
+
 ![image](https://github.com/Dheepak27/SIH2023_FINALCODE/assets/89765006/42029306-4c5a-4f76-8561-24cb0342ba02)
 
 Object Detection: YOLO (You Only Look Once)
 YOLO, specifically the weights from best.pt, is utilized for accurate and real-time detection of people in dehazed images and videos.
+
 ![image](https://github.com/Dheepak27/SIH2023_FINALCODE/assets/89765006/2cc480e0-2a63-4e89-9fa6-6da1525ad7bc)
 
 Platform Compatibility:
