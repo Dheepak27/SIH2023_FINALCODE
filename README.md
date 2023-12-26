@@ -26,7 +26,7 @@ The project incorporates a heatmap feature, visually representing the intensity 
 
 
 Dependencies:
-Open-CV(Contrib)  YOLO-ultralytics(Version 8) OS  Numpy  Time  cv2.ximprog
+Open-CV(Contrib),YOLO-ultralytics(Version 8),OS,Numpy,Time,cv2.ximprog
 
 
 
