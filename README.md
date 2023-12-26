@@ -19,16 +19,17 @@ Successfully tested with live inputs from mobile cameras, demonstrating the proj
 
 Additional Feature: Heatmap for People Density
 The project incorporates a heatmap feature, visually representing the intensity of people present in specific areas.
+
 ![image](https://github.com/Dheepak27/SIH2023_FINALCODE/assets/89765006/88f8cb2b-2d51-4780-bcaa-7efbd3e207ac)
 
 
 Dependencies:
-Open-CV (Contrib)
-YOLO-ultralytics (Version 8)
-OS
-Numpy
-Time
-cv2.ximprog
+1.Open-CV (Contrib)
+2.YOLO-ultralytics (Version 8)
+3.OS
+4.Numpy
+5.Time
+6.cv2.ximprog
 
 
 
