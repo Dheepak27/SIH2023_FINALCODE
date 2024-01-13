@@ -24,6 +24,8 @@ The project incorporates a heatmap feature, visually representing the intensity 
 
 ![image](https://github.com/Dheepak27/SIH2023_FINALCODE/assets/89765006/88f8cb2b-2d51-4780-bcaa-7efbd3e207ac)
 
+360° Camera View:
+Utilizing a 360-degree camera view, our system detects individuals in blind spots, guiding firefighters on the ground. When people are positioned on the left, outside the firefighter's direct vision, our software emits a leftward sound, prompting the firefighter to move left. The same approach is applied for the right side. This project is designed with firefighters in mind, enhancing their rescue operations by providing real-time directional cues for efficient navigation in fire-related scenarios.
 
 Dependencies:
 Open-CV(Contrib),YOLO-ultralytics(Version 8),OS,Numpy,Time,cv2.ximprog
